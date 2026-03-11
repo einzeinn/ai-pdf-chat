@@ -85,5 +85,10 @@ streamlit run app.py
 ## Demo
 
 ![Screenshot 1](Screenshot 2026-03-11 214558.png)
+*Step 1: Tampilan awal program*
+
 ![Screenshot 2](Screenshot 2026-03-11 214640.png)
+*Step 2: Upload file PDF*
+
 ![Screenshot 3](Screenshot 2026-03-11 214734.png)
+*Step 3: Model menjawab pertanyaan*
