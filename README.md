@@ -81,3 +81,9 @@ streamlit run app.py
 * Add chat history
 * Improve the UI
 * Support more LLM models
+
+## Demo
+
+![Screenshot 1](Screenshot 2026-03-11 214558.png)
+![Screenshot 2](Screenshot 2026-03-11 214640.png)
+![Screenshot 3](Screenshot 2026-03-11 214734.png)
